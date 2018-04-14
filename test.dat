@@ -1,3 +1,11 @@
 Je suis en train d'expliquer à tibautl comment utiliser git
 
 Je suis en train de tester git.
+
+#include "main.h"
+int main(){
+
+	cout<<"hello word"<<endl;
+	
+
+}
